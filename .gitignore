@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+datas/最全中国各省份城市编码以及经纬度数据.xlsx
+datas/city_names.json
+datas/generated_deepspeed_samples.jsonl
+datas/generated_samples.jsonl
+models/
+modules/
